@@ -1,0 +1,14 @@
+# Archivos de modelos grandes
+*.gguf
+*.bin
+
+# Archivos del sistema
+*.exe
+*.mp4
+*.zip
+
+# Carpetas que no querés subir
+/mistral/models/
+/node_modules/
+/build/
+/dist/
